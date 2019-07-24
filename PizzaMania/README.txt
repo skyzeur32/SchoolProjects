@@ -4,7 +4,7 @@
 - npm install –g @angular/cli
 - NPM va télécharger et installer toutes les dépendances
 nécessaires à l'utilisation d'Angular
-- Créer le projet en l'appelant pizzamania
-- ng new pizzamania
+
+- démarer le serveur java -jar server-2.jar
 - Lancer le projet avec la commande
 - ng serve --open
