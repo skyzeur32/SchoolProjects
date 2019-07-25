@@ -1,10 +1,14 @@
 - Télécharger et installer Node.js
 - https://nodejs.org/en/download/
-- Installer ensuite Angular via le gestionnaire NPM
+- Installer ensuite Angular via le gestionnaire NPM sur le repertoire
 - npm install –g @angular/cli
 - NPM va télécharger et installer toutes les dépendances
 nécessaires à l'utilisation d'Angular
 
+
+npm install --save-dev @angular-devkit/build-angular
+
 - démarer le serveur java -jar server-2.jar
 - Lancer le projet avec la commande
 - ng serve --open
+
