@@ -1,21 +1,21 @@
-![pizza slice ](./img/pizzaSlice.PNG)
-# Pizza Mania ![pizza slice ](./img/pizzaSlice.PNG)
+![pizza slice](./img/pizzaSlice.png)
+# Pizza Mania ![pizza slice ](./img/pizzaSlice.png)
 
 ## Overview
 
-This project is a Angular website released during my [ APSIO professional Bachelor ](https://www.iut-blagnac.fr/fr/formations/lp-apsio) for the Angular courses.
+This project is a Angular website released during my [APSIO professional Bachelor](https://www.iut-blagnac.fr/fr/formations/lp-apsio) for the Angular courses.
 
 This webapp is a pizza ordering services which work with a embed local stored server.
 
 Beside you can see some shots of the website...
 ### Accueil
-![Accueil](./img/accueilPizzaMania)
+![Accueil](./img/accueilPizzaMania.PNG)
 
 ### Pizza à la carte
-![Carte](./img/cartePizzaMania)
+![Carte](./img/cartePizzaMania.PNG)
 
 ### Composerz vos propres pizza
-![Composition](./img/creerPizzaMania)
+![Composition](./img/creerPizzaMania.PNG)
 
 ## To run the webapp
 
