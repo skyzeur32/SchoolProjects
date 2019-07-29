@@ -1,4 +1,5 @@
-# Pizza Mania
+![pizza slice ](./img/pizzaSlice.PNG)
+# Pizza Mania ![pizza slice ](./img/pizzaSlice.PNG)
 
 ## Overview
 
@@ -7,20 +8,43 @@ This project is a Angular website released during my [ APSIO professional Bachel
 This webapp is a pizza ordering services which work with a embed local stored server.
 
 Beside you can see some shots of the website...
+### Accueil
+![Accueil](./img/accueilPizzaMania)
+
+### Pizza à la carte
+![Carte](./img/cartePizzaMania)
+
+### Composerz vos propres pizza
+![Composition](./img/creerPizzaMania)
 
 ## To run the webapp
 
-- Fist clone the entier PizzaMania folder somewhere at your disk root (or your user root)
+### 1)
+ Clone the entier PizzaMania folder somewhere at your disk root (or your user root)
 
-- Download and install Node.js with the folowing link : (https://nodejs.org/en/download/)
+### 2)
+ Download and install Node.js with the folowing link : (https://nodejs.org/en/download/)
 
-- Install Angular at the project root folder (pizzamania-jeremieb) by the folowing bash command :  npm install –g @angular/cli
+### 3)
+ Install Angular at the project root folder (pizzamania-jeremieb) by the folowing bash command :  
+```bash
+npm install –g @angular/cli
+```
+### 4)
+ Then, on the same repertory execute the command :
+```bash
+npm install --save-dev @angular-devkit/build-angular
+```
 
-- Then, on the same repertory execute the command : npm install --save-dev @angular-devkit/build-angular
-
-- After start the pizza ordering server services on the PizzaMania repertory with : java -jar server-2.jar
-
-- Finally start the website at the pizzamania-jeremieb folder withe the command : ng serve --open
-
+### 5)
+ After start the pizza ordering server services on the PizzaMania repertory with : 
+```bash
+java -jar server-2.jar
+```
+### 6)
+ Finally start the website at the pizzamania-jeremieb folder withe the command : 
+```bash
+ng serve --open
+```
 - The website will be lauched with the default web browser and juste cliking on the "Accueil" link. Now enjoying !
 
