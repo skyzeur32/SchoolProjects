@@ -35,7 +35,7 @@ npm install –g @angular/cli
 
 
 ### 4)
- Then, in the *pizzamania-jeremieb* repertory execute the command :
+ Then, in the *pizzamania-jeremieb* directory execute the command :
 ```bash
 npm install --save-dev @angular-devkit/build-angular
 ```
