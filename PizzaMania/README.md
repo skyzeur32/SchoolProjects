@@ -18,7 +18,7 @@ You can see some shots of the website below :
 ### Composez vos propres pizza :
 ![Composition](./img/creerPizzaMania.PNG)
 
-## To run the webapp
+## To run the webapp ![Run](./img/play.gif)
 
 ### 1)
  Clone the entire PizzaMania folder somewhere on your disk root or user root *Exemple : C:\Users\MyName*
