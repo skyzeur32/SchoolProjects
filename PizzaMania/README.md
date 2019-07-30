@@ -53,7 +53,7 @@ java -jar server-2.jar
 ```bash
 ng serve --open
 ```
-**The website will be launched with the default web browser and just clicking on the "Accueil" link. Now enjoying !**
+**When the website has been launched with your default web browser, click on the ***Accueil*** link. Now enjoying !**
 
 
 
