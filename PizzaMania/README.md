@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is an **Angular website** released during my [APSIO professional Bachelor](https://www.iut-blagnac.fr/fr/formations/lp-apsio) for the *Angular courses*.
+This project is an **Angular website** released during my [APSIO professional Bachelor](https://www.iut-blagnac.fr/fr/formations/lp-apsio) for the **Angular courses**.
 
 This webapp is a **pizza ordering simulation** which work with an **embed local server**.
 
