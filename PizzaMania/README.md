@@ -1,5 +1,5 @@
 
-![pizza mania](./img/pizzaMania.png)
+![pizza mania](./img/pizzaMania.png)  ![angular](./img/angular.png)
 # Pizza Mania ![pizza slice ](./img/pizzaSlice.png)
 
 ## Overview
