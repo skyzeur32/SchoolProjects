@@ -5,7 +5,7 @@ const Google = require('./commandes/google');
 const Ping = require('./commandes/ping');
 const Apprendre = require('./commandes/apprendre');
 const Meteo = require('./commandes/meteo');
-myBot.login("NTUyNzk4NTMwNjA4MzAwMDMy.D2E1mA.7z5aiCNIa2eDDMJ2B9Xo0TP5kBk");
+myBot.login("TOKEN");
 
 myBot.on('ready', function() {
 	//myBot.user.setAvatar('./avatar.png').catch(console.error)
